@@ -24,7 +24,7 @@ You can watch the [tutorial](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to hel
 - Download Chrome Browser from [here](https://www.google.com/chrome/)
 - If you are already using Chrome browser just **update** your browser
 - download gecko from [here](https://chromedriver.chromium.org/downloads), then add it the current folder
-    - need help? [DM me](https://www.linkedin.com/in/jawadpy/)
+    - need help? open a new issue or DM me: [LinkedIn](https://www.linkedin.com/in/jawadpy/), [Instagram](https://instagram.com/9el)
 
 - then run `setup.bat`
 
