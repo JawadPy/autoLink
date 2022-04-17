@@ -124,11 +124,6 @@ def main(ALLOW=['Follow', 'Connect']):
         [INFO] Reached page number {PAGE}.
         ''')
 
-
-
-OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path("./assets")
-
 def relative_to_assets(path: str) -> Path:
     return r'{}\assets\{}'.format(os.getcwd(), path)
 def gui():
