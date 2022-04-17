@@ -2,6 +2,7 @@
 ![Screenshot 2022-04-17 235742](https://user-images.githubusercontent.com/98477272/163732126-8d32c4f7-3e59-4d66-80e1-83acea41d635.png)
 
 Auto connect/follow people on linkedIn with not unique design, heart matter more than the look.
+[Proof Video](https://youtu.be/r0eRCAE94_8)
 
 # Advantages 
 - Auto connect, follow or both from a specific user's connections.
