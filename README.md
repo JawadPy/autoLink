@@ -8,9 +8,9 @@ Auto connect/follow people on linkedIn with unique design, heart matter more tha
 # Advantages 
 - Auto connect, follow or both from a specific user's connections.
 - Beautiful GUI
-- Get your reports as notifications
-- Limit Detection
-- Fast
+- Get progress as notifications
+- LinkedIn limit alert detection
+- Speedy bot
 
 # Disadvantages
 - Only support windows 10
