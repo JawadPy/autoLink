@@ -17,13 +17,34 @@ Auto connect/follow people on linkedIn with unique design, heart matter more tha
 - Dosen't have many features, unless you [request it](https://github.com/JawadPy/autoLink/issues/new/choose)
 
 # Setup
-You can watch the [tutorial](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to help you with installation, or follow the next setps.
+You can download the release [here](https://github.com/JawadPy/autoLink/releases/), the releases created for the people who doesn't know how to code in general.
+otherwise follow my lead! watch the [tutorial](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to help you with installation, or follow the next setps.
 
 - Download chromedriver as same as your chrome current version [here](https://chromedriver.chromium.org/downloads)
 - then `python -m pip install -r requirements.txt`, or run `setup.bat`
 
 # Start
-to start using the script `python main.py`, or double click on `run.bat`.
+To start using the script `python main.py`, or double click on `run.bat`.
+
+## Inputs
+
+**username**: put your phone number or email used to log in your account.
+
+**one-link**: just leave it empty, this option let autoLink login to your account via direct link sent by LinkedIn.
+
+**connect from**: a link from someones connections as shown:
+
+https://user-images.githubusercontent.com/98477272/163753975-3bf44c78-df58-4790-a721-3717f64a6d37.mp4
+
+## Buttons
+
+**connect**: only connect to people, until you reach the limit.
+
+**follow**: only follow people, until you reach the limit.
+
+**wubba lubba dub dub**: connect and follow people, until you reach the limit.
+
+
 
 # Features & Issues
 please open a new issue if you would like to request a new feature, or incase you have an issue.
