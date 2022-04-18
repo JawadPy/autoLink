@@ -1,7 +1,8 @@
 # autoLink
-![Screenshot 2022-04-17 235742](https://user-images.githubusercontent.com/98477272/163732126-8d32c4f7-3e59-4d66-80e1-83acea41d635.png)
+![icon](https://user-images.githubusercontent.com/98477272/163751992-41595a8f-8ccd-4039-890a-134a897b8bab.png)
 
-Auto connect/follow people on linkedIn with not unique design, heart matter more than the look.
+
+Auto connect/follow people on linkedIn with unique design, heart matter more than the look trust me.
 [Proof Video](https://youtu.be/r0eRCAE94_8)
 
 # Advantages 
@@ -13,23 +14,19 @@ Auto connect/follow people on linkedIn with not unique design, heart matter more
 
 # Disadvantages
 - Only support windows 10
-- Dosen't have many features
+- Dosen't have many features, unless you [request it](https://github.com/JawadPy/autoLink/issues/new/choose)
 
 # Setup
 You can watch the [tutorial](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to help you with installation, or follow the next setps.
 
-- Download python3.8 from [here](https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe).
-    - need help? [How to Install Python 3.8.2 on Windows 10](https://www.youtube.com/watch?v=UvcQlPZ8ecA)
+- Download chromedriver as same as your chrome current version [here](https://chromedriver.chromium.org/downloads)
+- then `python -m pip install -r requirements.txt`, or run `setup.bat`
 
-- Download Chrome Browser from [here](https://www.google.com/chrome/)
-- If you are already using Chrome browser just **update** your browser
-- download gecko from [here](https://chromedriver.chromium.org/downloads), then add it the current folder
-    - need help? open a new issue or DM me: [LinkedIn](https://www.linkedin.com/in/jawadpy/), [Instagram](https://instagram.com/9el)
-
-- then run `setup.bat`
-
-# Run
-to start using the script double click on `run.bat`
+# Start
+to start using the script `python main.py`, or double click on `run.bat`.
 
 # Features & Issues
 please open a new issue if you would like to request a new feature, or incase you have an issue.
+
+
+My [LinkedIn](https://www.linkedin.com/in/jawadpy/), [Instagram](https://instagram.com/9el)
